@@ -1,6 +1,6 @@
 ### Welcome to my profile 👋
 #### My name is Alexander and i learning java ☕️
-#### My social: [VK][https://vk.com/oracle95][email][asamcuk497@gmail.com]
+#### My social:[https://vk.com/oracle95][Vk] [asamcuk497@gmail.com][Email]
  
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Zaltorus&theme=dark&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
