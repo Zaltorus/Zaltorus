@@ -1,5 +1,6 @@
-### Hi there 👋
-
+### Welcome to my profile 👋
+#### My name is Alexander and i learning java ☕️
+#### My social: https://vk.com/oracle95
 <!--
 **Zaltorus/Zaltorus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
