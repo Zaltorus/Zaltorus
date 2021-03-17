@@ -2,8 +2,8 @@
 #### My name is Alexander and i learning java ☕️
 #### My social:https://vk.com/oracle95
  
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Zaltorus&theme=dark&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Zaltorus&theme=dark&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Zaltoru&theme=dark&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Zaltoru&theme=dark&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **Zaltorus/Zaltorus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
