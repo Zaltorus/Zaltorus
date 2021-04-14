@@ -3,7 +3,8 @@
 #### Telegram: @Zaltorus
 #### My Vk:https://vk.com/oracle95
 #### Mail: asamcuk497@gmail.com
- 
+### GitHub Stats
+
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Zaltorus&theme=dark&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Zaltorus&theme=dark&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 <!--
